@@ -1,0 +1,44 @@
+C:\Users\lyca mae\Documents\acts\CinemaTicketing\bin\Debug\CinemaTicketing.exe.config
+C:\Users\lyca mae\Documents\acts\CinemaTicketing\bin\Debug\CinemaTicketing.exe
+C:\Users\lyca mae\Documents\acts\CinemaTicketing\bin\Debug\CinemaTicketing.pdb
+C:\Users\lyca mae\Documents\acts\CinemaTicketing\obj\Debug\CinemaTicketing.csproj.AssemblyReference.cache
+C:\Users\lyca mae\Documents\acts\CinemaTicketing\obj\Debug\CinemaTicketing.Movie_Section.resources
+C:\Users\lyca mae\Documents\acts\CinemaTicketing\obj\Debug\CinemaTicketing.Properties.Resources.resources
+C:\Users\lyca mae\Documents\acts\CinemaTicketing\obj\Debug\CinemaTicketing.Receipt.resources
+C:\Users\lyca mae\Documents\acts\CinemaTicketing\obj\Debug\CinemaTicketing.Seats.resources
+C:\Users\lyca mae\Documents\acts\CinemaTicketing\obj\Debug\CinemaTicketing.csproj.GenerateResource.cache
+C:\Users\lyca mae\Documents\acts\CinemaTicketing\obj\Debug\CinemaTicketing.csproj.CoreCompileInputs.cache
+C:\Users\lyca mae\Documents\acts\CinemaTicketing\obj\Debug\CinemaTicketing.exe
+C:\Users\lyca mae\Documents\acts\CinemaTicketing\obj\Debug\CinemaTicketing.pdb
+C:\Users\lyca mae\Documents\acts\CinemaTicketing\obj\Debug\CinemaTicketing.BookingInfo.resources
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\CinemaTicketing.exe.config
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\CinemaTicketing.exe
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\CinemaTicketing.pdb
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.csproj.AssemblyReference.cache
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.BookingInfo.resources
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.Landing.resources
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.Login.resources
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.Movie_Section.resources
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.Properties.Resources.resources
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.Receipt.resources
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.Seats.resources
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.csproj.GenerateResource.cache
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.csproj.CoreCompileInputs.cache
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.exe
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.pdb
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.addMovies.resources
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.admin.resources
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\ControlzEx.dll
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\MahApps.Metro.dll
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\MetroFramework.Design.dll
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\MetroFramework.dll
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\MetroFramework.Fonts.dll
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\ControlzEx.pdb
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\ControlzEx.xml
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\MahApps.Metro.pdb
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\MahApps.Metro.xml
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\bin\Debug\de\MahApps.Metro.resources.dll
+E:\Amiel\Joseph\CinemaTicketing_2\CinemaTicketing\obj\Debug\CinemaTicketing.csproj.CopyComplete
